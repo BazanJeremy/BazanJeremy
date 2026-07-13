@@ -1,4 +1,4 @@
-# Jérémy Bazan — Senior QA Engineer · Testing augmenté par l'IA
+# Jérémy Bazan — QA Engineer confirmé · Testing augmenté par l'IA
 
 Ingénieur QA certifié ISTQB (Lyon, France). Je construis de l'outillage qualité
 augmenté par l'IA pour les systèmes critiques — santé, fintech, domaines safety-critical.
