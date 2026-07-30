@@ -9,7 +9,7 @@ Chaque projet ci-dessous tourne en local, aucune clé API requise.
 ## Projets phares
 
 ### IA × Quality engineering
-- **[EvalForge](https://github.com/BazanJeremy/EvalForge)** — Évaluation de LLM avec juge sous calibration. Méta-évaluation Cohen's kappa, verdicts prêts pour la CI.
+- **[EvalForge](https://github.com/BazanJeremy/EvalForge)** — Évaluation de LLM avec juge sous calibration. Méta-évaluation Cohen's kappa, verdicts prêts pour la CI. 121 tests.
 - **[TestScribe](https://github.com/BazanJeremy/testscribe)** — Enrichissement de bug reports assisté par IA. L'IA propose, le QA arbitre. 144 tests.
 
 ### Systèmes critiques
@@ -19,6 +19,9 @@ Chaque projet ci-dessous tourne en local, aucune clé API requise.
 ### Fiabilité des tests & delivery
 - **[FlakySense](https://github.com/BazanJeremy/flakysense)** — Diagnostic statistique des tests flaky depuis l'historique CI. JUnit XML in, rapport actionnable out.
 - **[ReleaseGuard](https://github.com/BazanJeremy/ReleaseGuard)** — Verrou de release GO/NO-GO explicable : tests, couverture, flakiness. 89 tests.
+
+### Outillage de l'agent QA
+- **[claude-qa-toolkit](https://github.com/BazanJeremy/claude-qa-toolkit)** — Trois disciplines QA installées dans un agent de code : clôture de session, triage déterministe des tests flaky, plan de test dérivé d'une user story. Trois skills, aucun service externe.
 
 ## Stack
 Playwright (TypeScript · Python) · Pytest · Python · GitLab CI / Azure DevOps · MCP & agents IA · Pydantic
