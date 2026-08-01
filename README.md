@@ -17,7 +17,7 @@ Chaque projet ci-dessous tourne en local, aucune clé API requise.
 - **[Anomaly Sentinel](https://github.com/BazanJeremy/anomaly-sentinel)** — Framework de test pour IA de détection d'anomalies, medtech & fintech. 182 tests.
 
 ### Fiabilité des tests & delivery
-- **[FlakySense](https://github.com/BazanJeremy/flakysense)** — Diagnostic statistique des tests flaky depuis l'historique CI. JUnit XML in, rapport actionnable out.
+- **[FlakySense](https://github.com/BazanJeremy/flakysense)** — Diagnostic statistique des tests flaky depuis l'historique CI. JUnit XML in, rapport actionnable out. 60 tests.
 - **[ReleaseGuard](https://github.com/BazanJeremy/ReleaseGuard)** — Verrou de release GO/NO-GO explicable : tests, couverture, flakiness. 89 tests.
 
 ### Outillage de l'agent QA
@@ -27,7 +27,7 @@ Chaque projet ci-dessous tourne en local, aucune clé API requise.
 Playwright (TypeScript · Python) · Pytest · Python · GitLab CI / Azure DevOps · MCP & agents IA · Pydantic
 
 ## Me contacter
-[LinkedIn](https://www.linkedin.com/in/jeremy-bazan/)
+[LinkedIn](https://www.linkedin.com/in/jeremy-bazan/) · [jeremy.bazan1@gmail.com](mailto:jeremy.bazan1@gmail.com)
 
 ---
 > 🇬🇧 *Every project ships a full English README (`README.en.md`).*
