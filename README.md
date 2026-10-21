@@ -18,7 +18,8 @@ Chaque projet ci-dessous tourne en local, aucune clé API requise.
 
 ### Fiabilité des tests & delivery
 - **[FlakySense](https://github.com/BazanJeremy/flakysense)** — Diagnostic statistique des tests flaky depuis l'historique CI. JUnit XML in, rapport actionnable out. 60 tests.
-- **[ReleaseGuard](https://github.com/BazanJeremy/ReleaseGuard)** — Verrou de release GO/NO-GO explicable : tests, couverture, flakiness. 89 tests.
+- **[ReleaseGuard](https://github.com/BazanJeremy/ReleaseGuard)** — Verrou de release GO/NO-GO explicable : tests, couverture, flakiness. 110 tests.
+- **[loadlens](https://github.com/BazanJeremy/loadlens)** — Verdict de performance argumenté à partir de résultats JMeter et LoadRunner. PASS / WARN / FAIL fondé sur la statistique, pas sur un seuil isolé. 267 tests.
 
 ### Outillage de l'agent QA
 - **[claude-qa-toolkit](https://github.com/BazanJeremy/claude-qa-toolkit)** — Trois disciplines QA installées dans un agent de code : clôture de session, triage déterministe des tests flaky, plan de test dérivé d'une user story. Trois skills, aucun service externe.
