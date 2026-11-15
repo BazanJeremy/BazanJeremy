@@ -9,12 +9,12 @@ Chaque projet ci-dessous tourne en local, aucune clé API requise.
 ## Projets phares
 
 ### IA × Quality engineering
-- **[EvalForge](https://github.com/BazanJeremy/EvalForge)** — Évaluation de LLM avec juge sous calibration. Méta-évaluation Cohen's kappa, verdicts prêts pour la CI. 121 tests.
+- **[EvalForge](https://github.com/BazanJeremy/EvalForge)** — Évaluation de LLM avec juge sous calibration. Méta-évaluation Cohen's kappa, verdicts prêts pour la CI. 124 tests.
 - **[TestScribe](https://github.com/BazanJeremy/testscribe)** — Enrichissement de bug reports assisté par IA. L'IA propose, le QA arbitre. 146 tests.
 
 ### Systèmes critiques
-- **[SkyGuard](https://github.com/BazanJeremy/skyguard)** — Quality gate sécurité pour systèmes avioniques. Threat modeling STRIDE, traçabilité ED-202A. 252 tests.
-- **[Anomaly Sentinel](https://github.com/BazanJeremy/anomaly-sentinel)** — Framework de test pour IA de détection d'anomalies, medtech & fintech. 182 tests.
+- **[SkyGuard](https://github.com/BazanJeremy/skyguard)** — Quality gate sécurité pour systèmes avioniques. Threat modeling STRIDE, traçabilité ED-202A. 266 tests.
+- **[Anomaly Sentinel](https://github.com/BazanJeremy/anomaly-sentinel)** — Framework de test pour IA de détection d'anomalies, medtech & fintech. 184 tests.
 
 ### Fiabilité des tests & delivery
 - **[FlakySense](https://github.com/BazanJeremy/flakysense)** — Diagnostic statistique des tests flaky depuis l'historique CI. JUnit XML in, rapport actionnable out. 66 tests.
