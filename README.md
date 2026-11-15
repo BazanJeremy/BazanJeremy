@@ -10,15 +10,15 @@ Chaque projet ci-dessous tourne en local, aucune clé API requise.
 
 ### IA × Quality engineering
 - **[EvalForge](https://github.com/BazanJeremy/EvalForge)** — Évaluation de LLM avec juge sous calibration. Méta-évaluation Cohen's kappa, verdicts prêts pour la CI. 121 tests.
-- **[TestScribe](https://github.com/BazanJeremy/testscribe)** — Enrichissement de bug reports assisté par IA. L'IA propose, le QA arbitre. 144 tests.
+- **[TestScribe](https://github.com/BazanJeremy/testscribe)** — Enrichissement de bug reports assisté par IA. L'IA propose, le QA arbitre. 146 tests.
 
 ### Systèmes critiques
 - **[SkyGuard](https://github.com/BazanJeremy/skyguard)** — Quality gate sécurité pour systèmes avioniques. Threat modeling STRIDE, traçabilité ED-202A. 252 tests.
 - **[Anomaly Sentinel](https://github.com/BazanJeremy/anomaly-sentinel)** — Framework de test pour IA de détection d'anomalies, medtech & fintech. 182 tests.
 
 ### Fiabilité des tests & delivery
-- **[FlakySense](https://github.com/BazanJeremy/flakysense)** — Diagnostic statistique des tests flaky depuis l'historique CI. JUnit XML in, rapport actionnable out. 60 tests.
-- **[ReleaseGuard](https://github.com/BazanJeremy/ReleaseGuard)** — Verrou de release GO/NO-GO explicable : tests, couverture, flakiness. 110 tests.
+- **[FlakySense](https://github.com/BazanJeremy/flakysense)** — Diagnostic statistique des tests flaky depuis l'historique CI. JUnit XML in, rapport actionnable out. 66 tests.
+- **[ReleaseGuard](https://github.com/BazanJeremy/ReleaseGuard)** — Verrou de release GO/NO-GO explicable : tests, couverture, flakiness. 121 tests.
 - **[loadlens](https://github.com/BazanJeremy/loadlens)** — Verdict de performance argumenté à partir de résultats JMeter et LoadRunner. PASS / WARN / FAIL fondé sur la statistique, pas sur un seuil isolé. 267 tests.
 
 ### Outillage de l'agent QA
