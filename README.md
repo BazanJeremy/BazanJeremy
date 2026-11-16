@@ -14,7 +14,7 @@ Chaque projet ci-dessous tourne en local, aucune clé API requise.
 
 ### Systèmes critiques
 - **[SkyGuard](https://github.com/BazanJeremy/skyguard)** — Quality gate sécurité pour systèmes avioniques. Threat modeling STRIDE, traçabilité ED-202A. 266 tests.
-- **[Anomaly Sentinel](https://github.com/BazanJeremy/anomaly-sentinel)** — Framework de test pour IA de détection d'anomalies, medtech & fintech. 184 tests.
+- **[Anomaly Sentinel](https://github.com/BazanJeremy/anomaly-sentinel)** — Framework de test pour IA de détection d'anomalies, medtech & fintech. 186 tests.
 
 ### Fiabilité des tests & delivery
 - **[FlakySense](https://github.com/BazanJeremy/flakysense)** — Diagnostic statistique des tests flaky depuis l'historique CI. JUnit XML in, rapport actionnable out. 66 tests.
